@@ -14,8 +14,8 @@ Car purchase amount prediction using Artificial Neural Network
 3.  Download required library (pip install -r requirement.txt)
 
 # git command
-git config --global user.email " "
-git add .
-git status
-git commit -m "Message"
-git push origin main
+1. git config --global user.email " "
+2. git add .
+3. git status
+4. git commit -m "Message"
+5. git push origin main
